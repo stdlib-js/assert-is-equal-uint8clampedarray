@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-equal-uint8clampedarray",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test if two arguments are both Uint8ClampedArrays and have equal values.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
     "@stdlib/assert-is-uint8clampedarray": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-typed": "^0.3.0",
+    "@stdlib/array-typed": "^0.3.1",
     "@stdlib/array-uint8c": "^0.2.2",
     "@stdlib/array-zero-to": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
