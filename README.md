@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEqualUint8ClampedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-uint8clampedarray@esm/index.mjs';
+import isEqualUint8ClampedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-uint8clampedarray@v0.1.1-esm/index.mjs';
 ```
 
 #### isEqualUint8ClampedArray( v1, v2 )
@@ -84,7 +84,7 @@ bool = isEqualUint8ClampedArray( x, new Uint8ClampedArray( [ 1, 3 ] ) );
 <script type="module">
 
 import Uint8ClampedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8c@esm/index.mjs';
-import isEqualUint8ClampedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-uint8clampedarray@esm/index.mjs';
+import isEqualUint8ClampedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-uint8clampedarray@v0.1.1-esm/index.mjs';
 
 var x = new Uint8ClampedArray( [ 1, 2, 3 ] );
 var y = new Uint8ClampedArray( [ 1, 2, 3 ] );
